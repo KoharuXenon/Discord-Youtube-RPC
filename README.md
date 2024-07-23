@@ -1,7 +1,7 @@
 # Discord-Youtube-RPC
 YouTube to Discord RPC (like spotify)
 
-Very simple script to show what song youre currently listening to on youtube
+Very simple script to show what song youre currently listening to on youtube.
 
 (only works when listening to the "my mix" playlist, unless youre smart enough to change the playist code in the js)
 
@@ -20,7 +20,7 @@ Very simple script to show what song youre currently listening to on youtube
 7. at least 1 braincell
 
 ### Notes
-If you want to run the python script automatically, you could make a task in the windows task scheduler, and make `pythonw.exe` open the script instead of `python.exe`, or rename the script's extension to .pyw and then put it in the startup folder or do what you want with it
+If you want to run the python script automatically, you could make a task in the windows task scheduler, and make `pythonw.exe` open the script instead of `python.exe`, or rename the script's extension to .pyw and then put it in the startup folder or do what you want with it.
 
-(pythonw wont create a window for the script so you wont have a cmd window open constantly that way :3)
+(pythonw won't create a window for the script so you wont have a cmd window open constantly that way :3)
 (same for .pyw files (i think))
